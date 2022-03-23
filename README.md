@@ -1,6 +1,6 @@
 - Hi I am Syeda Umm E Abiha Rizvi
 - I am interested in learning Webdevelopment,Ethical hacking and Artificial Intelligence.
-- I am currently learning python 
+- I am currently learning python and C++
 - How to reach me?
 - www.linkedin.com/in/ummeabiha
 
