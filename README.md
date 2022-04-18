@@ -1,5 +1,6 @@
 - Hi I am Syeda Umm E Abiha Rizvi
-- I am interested in learning Webdevelopment,Ethical hacking and Artificial Intelligence.
+- I am currently a Software Engineering student at NED University.
+- I am interested in learning Webdevelopment,Ethical hacking,Artificial Intelligence and Datascience.
 - I am currently learning python and C++
 - How to reach me?
 - www.linkedin.com/in/ummeabiha
