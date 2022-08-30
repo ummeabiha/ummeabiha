@@ -4,7 +4,8 @@
 - Currently, I am learning Graphics and Website Designing on my own.
 - I am interested in the domains of Webdevelopment,Artificial Intelligence and Graphic Designing.
 - How to reach me?
-- www.linkedin.com/in/ummeabiha
+- Linkedin: www.linkedin.com/in/ummeabiha
+- Email: abiharizvi.2004@gmail.com
 
 <!---
 ummeabiha/ummeabiha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
