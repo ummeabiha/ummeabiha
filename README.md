@@ -1,4 +1,10 @@
-This is Umm E Abiha, a Computer Software Engineering Undergraduate and tech enthusiast. I am an ardent and dedicated individual, who always strives to learn new skills and technologies. As yet, my proficiency is in Python, C++, Software Project Documentation and Graphic Designing, while currently, I am learning Website Development.  My utmost strength is my creativity which allows me to handle multiple tasks and the ability to meet work deadlines. Contemporarily, I am exploring the fields of  Development, and AI to grow my career in these. 
+- Greetings!
+- This is Syeda Umm E Abiha Rizvi. 
+- I am currently pursuing Software Engineering from Ned University of Engineering and Technology.
+- I am a dedicated individual who keens to learn new skills.
+- As yet, I am practicing Python, C++, Html and Css.
+- My interest lies in the domains of Software Development and Artificial Intelligence, and I also plan to grow my carrer in these.
+
 
 - How to reach me?
 - Linkedin: www.linkedin.com/in/ummeabiha
