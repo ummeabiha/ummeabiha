@@ -1,8 +1,5 @@
-- Hi I am Syeda Umm E Abiha Rizvi.
-- I am currently a Computer Software Engineering Undergraduate at Ned University Of Engineering and Technology.
-- I have knowledge about Python, C++, Html and CSS.
-- Currently, I am learning Website Development.
-- I am interested in the domains of Webdevelopment and Artificial Intelligence.
+This is Umm E Abiha, a Computer Software Engineering Undergraduate and tech enthusiast. I am an ardent and dedicated individual, who always strives to learn new skills and technologies. As yet, my proficiency is in Python, C++, Software Project Documentation and Graphic Designing, while currently, I am learning Website Development.  My utmost strength is my creativity which allows me to handle multiple tasks and the ability to meet work deadlines. Contemporarily, I am exploring the fields of  Development, and AI to grow my career in these. 
+
 - How to reach me?
 - Linkedin: www.linkedin.com/in/ummeabiha
 - Email: abiharizvi.2004@gmail.com
