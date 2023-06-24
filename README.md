@@ -1,5 +1,5 @@
 - Greetings!
-- This is Syeda Umm E Abiha Rizvi. I am currently pursuing Software Engineering from Ned University of Engineering and Technology. I am a dedicated individual who always keens to learn something new. As yet, I am practicing on Python, C++, Html and Css. My interest lies in the domains of Software Development and Artificial Intelligence, and currently I am exploring the domains of Datascience and Machine Learning. 
+- This is Syeda Umm E Abiha Rizvi. I am currently pursuing Software Engineering from Ned University of Engineering and Technology. I am a dedicated individual who always keens to learn something new. As yet, I am practicing on Python, C++, DataScience and Web Development. My interest lies in the domains of Software Development and Artificial Intelligence, and currently I am exploring the domains of Datascience and Machine Learning. 
 
 
 - How to reach me?
