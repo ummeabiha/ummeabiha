@@ -4,7 +4,7 @@
 
 - How to reach me?
 - Linkedin: www.linkedin.com/in/ummeabiha
-- Email: abiharizvi.2004@gmail.com
+- Email: abiharizvi10.04@gmail.com
 - Hackerrank: www.hackerrank.com/umm_e_abiha
 
 <!---
