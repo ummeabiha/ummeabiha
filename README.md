@@ -19,7 +19,7 @@ On a mission to make technology more exciting and accessible, I'm a dynamic and 
 Ready to embark on a coding adventure? Let's connect and create some tech magic! 🚀✨
 
 [<img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-black-and-white-logos/1000/2018_social_media_popular_app_logo_linkedin-512.png" width="50px">](https://www.linkedin.com/in/ummeabiha) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" width="50px">](https://www.hackerrank.com/umm_e_abiha) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" width="52px">](https://www.hackerrank.com/umm_e_abiha) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="50px">](mailto:abiharizvi10.04@gmail.com)
 
 
