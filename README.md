@@ -43,11 +43,18 @@ Bachelors of Engineering (BE) in Software Engineering, Ned University of Enginee
 As a tech explorer, I'm always eager to learn and adapt. My goal is to infuse creativity and innovation into every coding challenge. Actively seeking internships to collaborate with industry leaders and push the boundaries of technology.
 
 
-Happy Coding! 🚀✨
+## GitHub Profile Overview
+
+Hey there! Here's a quick overview of my GitHub journey, coding stats, and achievements. 🚀
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ummeabiha&layout=compact&theme=radical&bg_color=000000&title_color=ff69b4&text_color=ffffff&hide_border=true" alt="Your GitHub Stats" height="200px" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api?username=ummeabiha&theme=radical&bg_color=000000&title_color=ff69b4&text_color=ffffff&hide_border=true" alt="Your GitHub Stats" height="200px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user==ummeabiha&theme=radical&background=000000&hide_border=true" alt="Your GitHub Streak" height="200px">
+</p>
 
 
 
-
+*Happy Coding!* ✨🚀
 
 
 <!---
