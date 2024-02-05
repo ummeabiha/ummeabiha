@@ -54,7 +54,7 @@ Hey there! Here's a quick overview of my GitHub journey, coding stats, and achie
 
 
 
-*Happy Coding!* ✨🚀
+*Happy Coding!* 👩🏻‍💻🚀
 
 
 <!---
