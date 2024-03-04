@@ -19,9 +19,9 @@ As a tech explorer, I'm always eager to learn and adapt. My goal is to infuse cr
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ummeabiha&label=Profile%20views&color=0e75b6&style=flat" alt="ummeabiha" /> </p>
 
-![EAT](https://github.com/ummeabiha/ummeabiha/assets/98107411/f4e5fa3d-3cc5-4498-acf8-f25995f034e8)
+<img src="/assets/header.png" alt="Abiha"></img>
 
-
+<br/>
 <h3 align="center">
          👋 Hey There!, I am
                 <b><a target="_blank" href="https://www.linkedin.com/in/ummeabiha">Syeda Umm E Abiha Rizvi</a></b> 
@@ -32,6 +32,7 @@ As a tech explorer, I'm always eager to learn and adapt. My goal is to infuse cr
 </h4>
 
 <br/>
+
 <p align="center">
  <a href="https://www.linkedin.com/in/ummeabiha" target="_blank"">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="abiha""/>
@@ -56,8 +57,8 @@ As a tech explorer, I'm always eager to learn and adapt. My goal is to infuse cr
 
 ## 🌟 About Me
 <p>
-  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
+  <img align="right" width="250" src="/assets/programmer.png" alt="Coding gif"/>
+         
   - 🎓 I am currently pursuing a Bachelors of Engineering (BE) in Software Engineering.
   - 🌐 Ned University of Engineering and Technology (2021 - 2025)
   - 🌱 I am a passionate **MERN Stack Developer**, currently learning **Node JS.**
@@ -96,13 +97,14 @@ As a tech explorer, I'm always eager to learn and adapt. My goal is to infuse cr
 
 <br/>
 
-## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=ummeabiha&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ummeabiha/JavaScript)
-[![YourRepo1](https://github-readme-stats.vercel.app/api/pin/?username=ummeabiha&repo=your-repo1&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ummeabiha/your-repo1)
-[![YourRepo2](https://github-readme-stats.vercel.app/api/pin/?username=ummeabiha&repo=your-repo2&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ummeabiha/your-repo2)
-[![YourRepo3](https://github-readme-stats.vercel.app/api/pin/?username=ummeabiha&repo=your-repo3&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ummeabiha/your-repo3)
+## Repositories -
+[![JavaScript](https://github-readme-stats.vercel.app/api/pin/?username=ummeabiha&repo=JavaScript&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ummeabiha/JavaScript)
+[![WebDevelopment](https://github-readme-stats.vercel.app/api/pin/?username=ummeabiha&repo=WebDevelopment&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ummeabiha/WebDevelopment)
+[![CropClassification](https://github-readme-stats.vercel.app/api/pin/?username=ummeabiha&repo=CropClassification&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ummeabiha/CropClassification)
+[![Eyetistic](https://github-readme-stats.vercel.app/api/pin/?username=ummeabiha&repo=Eyetistic&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ummeabiha/Eyetistic)
 
 
+<p align="left">
 <p align="left">
   <a href="https://github.com/ummeabiha?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
