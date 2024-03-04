@@ -59,8 +59,7 @@ As a tech explorer, I'm always eager to learn and adapt. My goal is to infuse cr
 <p>
   <img align="right" width="250" src="/assets/programmer.png" alt="Coding gif"/>
          
-  - 🎓 I am currently pursuing a Bachelors of Engineering (BE) in Software Engineering.
-  - 🌐 Ned University of Engineering and Technology (2021 - 2025)
+  - 🎓 I am currently pursuing BESE at Ned University of Engineering and Technology. (2021 - 2025)
   - 🌱 I am a passionate **MERN Stack Developer**, currently learning **Node JS.**
   - 💬 Ask me about **JavaScript, and Web Development.**
   - 💡 My goal is to infuse creativity and innovation into every coding challenge
@@ -108,19 +107,6 @@ As a tech explorer, I'm always eager to learn and adapt. My goal is to infuse cr
 <p align="left">
   <a href="https://github.com/ummeabiha?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
-
-<br/>
-<hr/>
-<br/>
-
-## 🚀 Fun Facts
-- **Favorite Quote:** "Code is like humor. When you have to explain it, it’s bad."
-- **Coding Fuel:** Coffee ☕ and a bit of coding humor 😄
-- **Daily Routine:** `code(); sleep(); repeat();`
-
-![Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-
-
 
 <br/>
 <hr/>
