@@ -22,18 +22,34 @@ As a tech explorer, I'm always eager to learn and adapt. My goal is to infuse cr
 ![EAT](https://github.com/ummeabiha/ummeabiha/assets/98107411/f4e5fa3d-3cc5-4498-acf8-f25995f034e8)
 
 
-<div align="center">
-  
-# 👋 Hey there, I'm Syeda Umm E Abiha Rizvi!
-  
-</div>
+<h3 align="center">
+         👋 Hey There!, I am
+                <b><a target="_blank" href="https://www.linkedin.com/in/ummeabiha">Syeda Umm E Abiha Rizvi</a></b> 
+</h3>
 
+<h4 align="center">
+         Software Engineering Student
+</h4>
 
+<br/>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ummeabiha"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-black-and-white-logos/1000/2018_social_media_popular_app_logo_linkedin-512.png" width="40px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/umm_e_abiha"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" width="42px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:abiharizvi10.04@gmail.com"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="40px"></a>
+ <a href="https://www.linkedin.com/in/ummeabiha" target="_blank"">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="abiha""/>
+ </a>
+<a href="https://www.hackerrank.com/umm_e_abiha" target="_blank"">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="abiha"/>
+</a>
+ <a href="https://instagram.com/ummeabiha" target="_blank"">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="abiha" />
+ </a> 
+ <a href="https://facebook.com/ummeabiha" target="_blank"">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="abiha"  />
+  </a> 
+<a href="mailto:abiharizvi10.04@gmail.com" target="_blank"">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="abiht"/>
+</a>
 </p>
+
 
 <br/>
 <br/>
