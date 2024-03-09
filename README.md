@@ -34,20 +34,20 @@ As a tech explorer, I'm always eager to learn and adapt. My goal is to infuse cr
 <br/>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/ummeabiha" target="_blank"">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="abiha""/>
+ <a href="https://www.linkedin.com/in/ummeabiha" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="abiha"/>
  </a>
-<a href="https://www.hackerrank.com/umm_e_abiha" target="_blank"">
+<a href="https://www.hackerrank.com/umm_e_abiha" target="_blank">
   <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="abiha"/>
 </a>
- <a href="https://instagram.com/ummeabiha" target="_blank"">
+ <a href="https://instagram.com/ummeabiha" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="abiha" />
  </a> 
- <a href="https://facebook.com/ummeabiha" target="_blank"">
+ <a href="https://facebook.com/ummeabiha" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="abiha"  />
   </a> 
-<a href="mailto:abiharizvi10.04@gmail.com" target="_blank"">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="abiht"/>
+<a href="mailto:abiharizvi10.04@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="abiha"/>
 </a>
 </p>
 
@@ -68,8 +68,10 @@ As a tech explorer, I'm always eager to learn and adapt. My goal is to infuse cr
 </p>
 
 <br/>
+<br/>
+<br/>
 
-## Use To Code
+## 💻 Use To Code
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
@@ -96,7 +98,7 @@ As a tech explorer, I'm always eager to learn and adapt. My goal is to infuse cr
 
 <br/>
 
-## Repositories -
+## Repositories
 [![JavaScript](https://github-readme-stats.vercel.app/api/pin/?username=ummeabiha&repo=JavaScript&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ummeabiha/JavaScript)
 [![WebDevelopment](https://github-readme-stats.vercel.app/api/pin/?username=ummeabiha&repo=WebDevelopment&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ummeabiha/WebDevelopment)
 [![CropClassification](https://github-readme-stats.vercel.app/api/pin/?username=ummeabiha&repo=CropClassification&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ummeabiha/CropClassification)
