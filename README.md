@@ -43,7 +43,7 @@ As a tech explorer, I'm always eager to learn and adapt. My goal is to infuse cr
  <a href="https://instagram.com/umm.e.abiha" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="abiha" />
  </a> 
- <a href="https://facebook.com/ummeabiha" target="_blank">
+ <a href="https://facebook.com/ummeabiha.2004" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="abiha"  />
   </a> 
 <a href="mailto:abiharizvi10.04@gmail.com" target="_blank">
