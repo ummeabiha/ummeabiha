@@ -49,6 +49,7 @@ As a tech explorer, I'm always eager to learn and adapt. My goal is to infuse cr
 <a href="mailto:abiharizvi10.04@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="abiha"/>
 </a>
+
 </p>
 
 
