@@ -40,7 +40,7 @@ As a tech explorer, I'm always eager to learn and adapt. My goal is to infuse cr
 <a href="https://www.hackerrank.com/umm_e_abiha" target="_blank">
   <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="abiha"/>
 </a>
- <a href="https://instagram.com/ummeabiha" target="_blank">
+ <a href="https://instagram.com/umm.e.abiha" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="abiha" />
  </a> 
  <a href="https://facebook.com/ummeabiha" target="_blank">
