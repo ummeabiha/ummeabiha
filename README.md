@@ -14,6 +14,8 @@ On a mission to make technology more exciting and accessible, I'm a dynamic and 
 
 ## 💡 Professional Aspirations
 As a tech explorer, I'm always eager to learn and adapt. My goal is to infuse creativity and innovation into every coding challenge. Actively seeking internships to collaborate with industry leaders and push the boundaries of technology.
+
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&width=500&lines=Software+Engineering+Undergrad;MERN+Stack+Developer;Aspiring+.NET+Developer;AI+Enthusiast" alt="Typing SVG">
 --->
 
 
@@ -30,6 +32,7 @@ As a tech explorer, I'm always eager to learn and adapt. My goal is to infuse cr
 <h4 align="center">
          Software Engineering Student
 </h4>
+
 
 <br/>
 
@@ -57,15 +60,17 @@ As a tech explorer, I'm always eager to learn and adapt. My goal is to infuse cr
 <br/>
 
 ## 🌟 About Me
+
 <p>
   <img align="right" width="250" src="/assets/programmer.png" alt="Coding gif"/>
          
   - 🎓 I am currently pursuing BESE at Ned University of Engineering and Technology. (2021 - 2025)
-  - 🌱 I am a passionate **MERN Stack Developer**, currently learning **Node JS.**
+  - 🌱 I am a passionate **MERN Stack Developer**.
+  - - ➡️ I'm expanding my skillset by learning .NET and working on practical applications.
   - 💬 Ask me about **JavaScript, and Web Development.**
-  - 💡 My goal is to infuse creativity and innovation into every coding challenge
+  - 💡 My goal is to infuse creativity and innovation into every coding challenge.
   - 🚀 I am always curious to learn and explore new technologies.
-  
+  - ⚡ I'm skilled in graphic design and enjoy bringing ideas to life through visual communication.
 </p>
 
 <br/>
