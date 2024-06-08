@@ -66,7 +66,7 @@ As a tech explorer, I'm always eager to learn and adapt. My goal is to infuse cr
          
   - 🎓 I am currently pursuing BESE at Ned University of Engineering and Technology. (2021 - 2025)
   - 🌱 I am a passionate **MERN Stack Developer**.
-  - - ➡️ I'm expanding my skillset by learning .NET and working on practical applications.
+  - ➡️ I'm expanding my skillset by learning .NET and working on practical applications.
   - 💬 Ask me about **JavaScript, and Web Development.**
   - 💡 My goal is to infuse creativity and innovation into every coding challenge.
   - 🚀 I am always curious to learn and explore new technologies.
