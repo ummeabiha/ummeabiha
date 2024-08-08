@@ -62,7 +62,7 @@ As a tech explorer, I'm always eager to learn and adapt. My goal is to infuse cr
 ## 🌟 About Me
 
 <p>
-  <img align="right" width="250" src="/assets/programmer.png" alt="Coding gif"/>
+<!--   <img align="right" width="250" src="/assets/programmer.png" alt="Coding gif"/> -->
          
   - 🎓 I am currently pursuing BESE at Ned University of Engineering and Technology. (2021 - 2025)
   - 🌱 I am a passionate **MERN Stack Developer**.
@@ -101,6 +101,12 @@ As a tech explorer, I'm always eager to learn and adapt. My goal is to infuse cr
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data_Science-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 
 <br/>
 
