@@ -30,7 +30,7 @@ As a tech explorer, I'm always eager to learn and adapt. My goal is to infuse cr
 </h3>
 
 <h4 align="center">
-         Software Engineering Student
+         Software Engineer
 </h4>
 
 
