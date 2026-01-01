@@ -64,13 +64,11 @@ As a tech explorer, I'm always eager to learn and adapt. My goal is to infuse cr
 <p>
 <!--   <img align="right" width="250" src="/assets/programmer.png" alt="Coding gif"/> -->
          
-  - 🎓 I am currently pursuing BESE at Ned University of Engineering and Technology. (2021 - 2025)
-  - 🌱 I am a passionate **MERN Stack Developer**.
-  - ➡️ I'm expanding my skillset by learning .NET and working on practical applications.
-  - 💬 Ask me about **JavaScript, and Web Development.**
+  - 🎓 I am a Software Engineer, studied from the Ned University of Engineering and Technology. (2021 - 2025)
+  - 🌱 I am a passionate **.NET and Full Stack Developer**.
+  - 💬 Ask me about **.NET, JavaScript, and Web Development.**
   - 💡 My goal is to infuse creativity and innovation into every coding challenge.
   - 🚀 I am always curious to learn and explore new technologies.
-  - ⚡ I'm skilled in graphic design and enjoy bringing ideas to life through visual communication.
 </p>
 
 <br/>
