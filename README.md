@@ -25,86 +25,83 @@ As a tech explorer, I'm always eager to learn and adapt. My goal is to infuse cr
 
 <br/>
 <h3 align="center">
-         👋 Hey There!, I am
-                <b><a target="_blank" href="https://www.linkedin.com/in/ummeabiha">Syeda Umm E Abiha Rizvi</a></b> 
+  👋 Hi, I'm <b><a target="_blank" href="https://www.linkedin.com/in/ummeabiha">Syeda Umm E Abiha Rizvi</a></b>
 </h3>
-
 <h4 align="center">
-         Software Engineer
+  Software Developer at VeriPark · MS Artificial Intelligence student at FAST
 </h4>
-
-
 <br/>
-
 <p align="center">
- <a href="https://www.linkedin.com/in/ummeabiha" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="abiha"/>
- </a>
-<a href="https://www.hackerrank.com/umm_e_abiha" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="abiha"/>
-</a>
- <a href="https://instagram.com/umm.e.abiha" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="abiha" />
- </a> 
- <a href="https://facebook.com/ummeabiha.2004" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="abiha"  />
-  </a> 
-<a href="mailto:abiharizvi10.04@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="abiha"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/ummeabiha" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://orcid.org/0009-0006-8550-6677" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
+  </a>
+  <a href="https://www.hackerrank.com/umm_e_abiha" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="mailto:syda.ummeabiha@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
-
-
-<br/>
 <br/>
 
-## 🌟 About Me
-
-<p>
-<!--   <img align="right" width="250" src="/assets/programmer.png" alt="Coding gif"/> -->
-         
-  - 🎓 I am a Software Engineer, studied from the Ned University of Engineering and Technology. (2021 - 2025)
-  - 🌱 I am a passionate **.NET and Full Stack Developer**.
-  - 💬 Ask me about **.NET, JavaScript, and Web Development.**
-  - 💡 My goal is to infuse creativity and innovation into every coding challenge.
-  - 🚀 I am always curious to learn and explore new technologies.
-</p>
-
-<br/>
-<br/>
+🌟 About Me
+ 
+I'm a software developer who enjoys turning ideas into working, well-built software, and I'm now going deeper into the AI side of things.
+ 
+- 💼 **Software Developer at VeriPark**, working on enterprise software with .NET and modern web technologies.
+- 🎓 **MS in Artificial Intelligence** at FAST National University of Computer and Emerging Sciences (FAST-NUCES).
+- 🎓 **BE in Software Engineering** from NED University of Engineering and Technology (2021 – 2025).
+- 💬 Happy to talk about **.NET, full-stack web development and applied machine learning**.
+- 🤝 Open to research collaborations and interesting engineering problems. Feel free to reach out on LinkedIn or by email.
 <br/>
 
-## 💻 Use To Code
+💻 Tech Stack
+ 
+**Languages**<br/>
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![ReactJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+ 
+**Backend & Web**<br/>
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+ 
+**AI & Data**<br/>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+ 
+**Databases**<br/>
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+ 
+**Tools**<br/>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Star UML](https://img.shields.io/badge/Star_UML-9B59B6?style=for-the-badge&logo=staruml&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data_Science-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+![StarUML](https://img.shields.io/badge/StarUML-9B59B6?style=for-the-badge&logoColor=white)
+ 
 
 <br/>
 
@@ -142,10 +139,9 @@ As a tech explorer, I'm always eager to learn and adapt. My goal is to infuse cr
 <br/>
 </a>
 
-![Umm E Abiha Rizvi's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ummeabiha&custom_title=Umm%20E%20Abiha%20Rizvi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-
-*Happy Coding!* 👩🏻‍💻🚀
+<br/>
+<p align="center"><i>Thanks for stopping by!</i></p>
+<div align="center"><b>Happy Coding!</b> 👩🏻‍💻🚀 </div>
 
 
 <!---
