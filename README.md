@@ -109,7 +109,7 @@ I'm a software developer who enjoys turning ideas into working, well-built softw
 [![JavaScript](https://github-readme-stats.vercel.app/api/pin/?username=ummeabiha&repo=JavaScript&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ummeabiha/JavaScript)
 [![WebDevelopment](https://github-readme-stats.vercel.app/api/pin/?username=ummeabiha&repo=WebDevelopment&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ummeabiha/WebDevelopment)
 [![CropClassification](https://github-readme-stats.vercel.app/api/pin/?username=ummeabiha&repo=CropClassification&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ummeabiha/CropClassification)
-[![ByteBazaar]([https://github-readme-stats.vercel.app/api/pin/?username=ummeabiha&repo=Eyetistic&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ummeabiha/Eyetistic](https://github.com/ummeabiha/Byte-Bazaar-Backend))
+[![ByteBazaar](https://github-readme-stats.vercel.app/api/pin/?username=ummeabiha&repo=Byte-Bazaar-Backend&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ummeabiha/Byte-Bazaar-Backend)
 
 
 <p align="left">
