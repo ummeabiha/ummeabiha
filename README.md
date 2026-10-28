@@ -32,6 +32,9 @@ As a tech explorer, I'm always eager to learn and adapt. My goal is to infuse cr
 </h4>
 <br/>
 <p align="center">
+  <a href="https://ummeabiha.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-7F3FBF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio Website"/>
+</a>
   <a href="https://www.linkedin.com/in/ummeabiha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -105,6 +108,7 @@ I'm a software developer who enjoys turning ideas into working, well-built softw
 
 <br/>
 
+<!---
 ## Repositories
 [![JavaScript](https://github-readme-stats.vercel.app/api/pin/?username=ummeabiha&repo=JavaScript&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ummeabiha/JavaScript)
 [![WebDevelopment](https://github-readme-stats.vercel.app/api/pin/?username=ummeabiha&repo=WebDevelopment&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ummeabiha/WebDevelopment)
@@ -119,6 +123,8 @@ I'm a software developer who enjoys turning ideas into working, well-built softw
 
 <br/>
 <hr/>
+
+--->
 <br/>
 
 <p align="center">
